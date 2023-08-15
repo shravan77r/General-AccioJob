@@ -1,0 +1,74 @@
+F3 :- https://docs.google.com/document/d/1tjw3voItrXP0wd1BnlNQ2DdJI501dkA7My9CO-GZi0U/edit
+
+=============================================================================================================
+F2 :- https://github.com/SAMUDRALAARAVIND/july
+
+
+
+=============================================================================================================
+
+F1 Mock :-
+Write a code using Bootstrap where the customer can input his name, address,
+ and date of birth in the input fields of a form and when clicked on submit button it shows a success alert. 
+ Design form as shown in the link. Make sure to include features like highlighting the border of the input 
+ field when clicked and make the form responsive as shown in the gif. 
+UI reference: https://cdn.acciojob.com/media/frontend1mock/frontendmock1_customerinformationform.gif
+
+
+"Create a toggle switch using HTML and CSS as shown below Constraints: 
+1. Width 60px 
+2. Height 34px The toggle switch should have a different color for the ""on"" and ""off"" states. 
+The switch should display a label indicating its state (e.g., ""On"" or ""Off""). 
+UI reference: https://cdn.acciojob.com/media/frontend1mock/frontend1_mock_toggle.gif
+
+
+Create a Gallery with the below-mentioned constraints desktop view: 
+1. On hover image should zoom in by scale of 1.2 2. 
+Width of image should be 400px3. Padding of 10px on images 
+UI reference: cdn.acciojob.com/media/frontend1mock/frontend1_mock_imagegallery.gif 
+In mobile view: 1. Image width should be 200px 
+2. Instead of zoom in on hover add scroll from left to right on x-axis 
+UI reference: cdn.acciojob.com/media/frontend1mock/frontend1_mock_imggallerymobileview.gif 
+Playground: https://githubbox.com/acciojob/frontend1_mock_imggallery
+
+
+What is the output of following snippet{ 
+var x = "apple"; 
+var y = function () 
+{ 
+if(x == "false"){ 
+console.log("first"); 
+} 
+if(!x){ 
+console.log("second"); } var x = "banana" 
+}; 
+y();
+}
+
+What is the output of following:<p style=”color:red;”> <h1 style=”color:blue”>test 1</h1> <h1>test 2</h1></p>
+Write a media query to apply css for all screen sizes between 700px & 1023px
+@media screen(@max-width = "700px" && max-width="1023px"){
+
+}
+Write a program to create a password input field with a button to show and hide password.
+<input type="password" id="pwd">
+<inut type="button" onclick="tooglepwd()">
+function tooglepwd(){
+	var tag = document.getElmentbyId("pwd");
+	var type= tag.getinputType();
+	if(type=="Password")
+		tag.setinputtype="text"
+	else
+		tag.setinputtype="password"
+	
+}
+==========================================================
+ 
+
+
+
+
+
+
+
+
