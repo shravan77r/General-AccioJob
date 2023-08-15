@@ -6,6 +6,9 @@ F2 :- https://github.com/SAMUDRALAARAVIND/july
 
 
 =============================================================================================================
+F1 :-
+https://github.com/mayank4all/Web_Dev_Batch_June_2023
+https://github.com/AYUSHBANSAL-hub
 
 F1 Mock :-
 Write a code using Bootstrap where the customer can input his name, address,
