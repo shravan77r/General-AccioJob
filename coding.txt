@@ -1,4 +1,116 @@
+
+=============================================================================================================
+Office:-
+-----for test coverage checking
+dotnet tool install --global coverlet.console
+
+dotnet tool install -g dotnet-reportgenerator-globaltool
+
+coverlet gWorks.Application.UnitTests.dll --target "dotnet" --targetargs "test ../../../ --no-build" --include "[gWorks.Application]*" --exclude "[gWorks.Infrastructure]*" --format cobertura
+
+reportgenerator -reports:"D:\Shravan\Projects\new\gWorks\tests\Application.UnitTests\bin\Debug\net6.0\coverage.cobertura.xml" -targetdir:"coveragereport" -reporttypes:Html
+===============
+'E651	IL22390615600	SHARVAN RATHORE
+'E651	IL22390615601	POOJA KANWAR
+
+https://www.amazon.in/Dell-Inspiron-5430-i7-1360P-Comfortview/dp/B0C91QWF1X/ref=sr_1_3?crid=A1JAD6JAESV&keywords=dell%2Bi7%2B16gb%2Bram&qid=1692963984&s=computers&sprefix=dell%2Bi7%2B16gb%2Bram%2Ccomputers%2C368&sr=1-3&th=1
+https://www.amazon.in/Pavilion-Graphics-Windows-Backlit-15-Eg2039Tu/dp/B09Y98RGG2/ref=sr_1_2?crid=26UFEMJZOD8U5&keywords=hp%2Bi7%2B16gb&qid=1692964981&s=computers&sprefix=hp%2Bi7%2B16gb%2Ccomputers%2C235&sr=1-2&th=1
+https://www.amazon.in/Dell-Inspiron-5630-i7-1360P-Comfortview/dp/B0C4Z8QZW5/ref=sr_1_6?crid=A1JAD6JAESV&keywords=dell+i7+16gb+ram&qid=1692963984&s=computers&sprefix=dell+i7+16gb+ram%2Ccomputers%2C368&sr=1-6
+==============
+
+=============================================================================================================
 F3 :- https://docs.google.com/document/d/1tjw3voItrXP0wd1BnlNQ2DdJI501dkA7My9CO-GZi0U/edit
+
+F3 AUGUST
+
+Whatsapp group -> whatsapp
+
+GitHub Repo -> https://github.com/accio-f3/august
+
+Google excel clone -> https://github.com/accio-f3/excel-august
+
+Sketch Board -> https://github.com/accio-f3/sketch-board
+
+Chat app -> https://github.com/accio-f3/chat-app-august
+
+Before starting with servers install nodejs
+https://nodejs.org/en
+
+APIs -> https://github.com/accio-f3/apis
+
+Socket io -> Socket broadcast document
+
+Socket io official docs -> socket io
+
+Sign up page -> Sign Up page GitHub
+
+AirBnb Clone -> airbnb notion
+
+AirBnbFigma-> Figma
+
+AirBnb starting template -> AirBnb GitHub
+
+1st Class
+This keyword
+Call method
+2nd Class
+Apply and bind method
+Objects
+Objects shallow and deep
+Deep cloning via json string and parse
+Deep clone structured clone
+Local storage
+3rd Class Topic -> overwhelming
+Deep clone function (hard)
+Prototypes -> play around on your console
+4th Class
+Prototypical inheritance
+filter, map
+5th Class
+Reduce polyfill
+Call, bind & apply polyfill
+6th class
+Oops 1
+7th Class
+Oops 2
+8th Class
+APIs
+9th Class
+Chat app - 1
+10th Class
+Chap app - 2
+arrayFlat
+11th Class (extra class) (saturday 9 am - 12 pm)
+intersectionWith
+arrayFlat revision
+
+12th Class
+Google excel Clone 1
+13th Class
+Google excel Clone 2
+14th Class
+Google excel Clone 3
+14th Class
+Google excel Clone 4
+15th Class
+Sketch Board 1
+16th Class (extra class) (sunday 2 pm - 4 pm)
+Closures Revision
+17th Class
+AirBnb Clone + Contest Discussion
+18th Class
+Sketch Board 2
+19th Class
+Sketch Board 3 + 
+
+
+
+Three Projects
+Last Week Contest (26th Aug, Sat)
+Monthly Project (28th Aug- 4th Sept)
+Module Test (3rd Sept)
+
+
 
 =============================================================================================================
 F2 :- https://github.com/SAMUDRALAARAVIND/july
